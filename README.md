@@ -6,15 +6,15 @@ whatever
 
 # BIG heading
 
-...
+---
 
 ## Medium heading
 
-...
+---
 
 ### small heading
 
-...
+---
 
 **bold boi**
 
@@ -44,4 +44,10 @@ _-quote boi_
 
 ![ice borg](./borg.jpg)
 
-[This is a link] (www.google.com)
+[ICE BORG](https://memory-alpha.fandom.com/wiki/Borg)
+
+| Borg Element | Attributes             | Phone Number          |
+| ------------ | ---------------------- | --------------------- |
+| FIRE BORG    | grumpy, but powerful   | 1 (800) fire-borg.com |
+| ICE BORG     | coolest guy on the bus | 1-900-ROCKNROLL       |
+| WATER BORG   | depressed              | disconnected          |
