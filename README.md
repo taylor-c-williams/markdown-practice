@@ -53,3 +53,11 @@ _~ [ICE BORG FAN HEADQUARTERS](https://memory-alpha.fandom.com/wiki/Borg) _~
 | WATER BORG   | depressed              | disconnected          |
 
 ![ice borg skeleton](./Borg_skeleton.jpg)
+
+---
+
+_I HAVE ADDED A BRAND NEW BRANCH_
+
+---
+
+![branch stick or twigs](./58882171-branch-stick-or-twigs-isolated-on-white-background.jpg)
