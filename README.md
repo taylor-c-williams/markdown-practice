@@ -52,7 +52,7 @@ _~ [ICE BORG FAN HEADQUARTERS](https://memory-alpha.fandom.com/wiki/Borg) _~
 | ICE BORG     | coolest guy on the bus | 1-900-ROCKNROLL       |
 | WATER BORG   | depressed              | disconnected          |
 
-![ice borg skeleton](./Borg_skeleton.jpg)
+![ice borg skeleton](./src/assets/Borg_skeleton.jpg)
 
 ---
 
@@ -60,4 +60,4 @@ _I HAVE ADDED A BRAND NEW BRANCH_
 
 ---
 
-![branch stick or twigs](./58882171-branch-stick-or-twigs-isolated-on-white-background.jpg)
+![branch stick or twigs](./src/assets/58882171-branch-stick-or-twigs-isolated-on-white-background.jpg)
