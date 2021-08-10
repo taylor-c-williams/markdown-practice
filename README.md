@@ -44,10 +44,12 @@ _-quote boi_
 
 ![ice borg](./borg.jpg)
 
-[ICE BORG](https://memory-alpha.fandom.com/wiki/Borg)
+_~ [ICE BORG FAN HEADQUARTERS](https://memory-alpha.fandom.com/wiki/Borg) _~
 
 | Borg Element | Attributes             | Phone Number          |
 | ------------ | ---------------------- | --------------------- |
 | FIRE BORG    | grumpy, but powerful   | 1 (800) fire-borg.com |
 | ICE BORG     | coolest guy on the bus | 1-900-ROCKNROLL       |
 | WATER BORG   | depressed              | disconnected          |
+
+![ice borg skeleton](./Borg_skeleton.jpg)
